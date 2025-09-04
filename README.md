@@ -32,9 +32,7 @@ Play against the computer and keep track of your score!
 ---
 
 ## 📸 Demo
-(Add a screenshot or gif here if you want, e.g. `![screenshot](screenshot.png)`)
-<!-- ![alt text](image.png) -->
-(image.png)
+![](image.png)
 
 ---
 
