@@ -32,7 +32,7 @@ Play against the computer and keep track of your score!
 ---
 
 ## 📸 Demo
-![](image.png)
+![image](image-1.png)
 
 ---
 
